@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Mohammed, and I am currently a student at Renas Tech's Data Analytics Bootcamp.
+
+
+
 <!--
 **mhesen/mhesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
